@@ -1,0 +1,6 @@
+{
+  "name": "libmnl",
+  "version-string": "1.0.4",
+  "homepage": "https://www.netfilter.org/projects/libmnl/index.html",
+  "description": "libmnl is a minimalistic user-space library oriented to Netlink developers."
+}
